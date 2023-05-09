@@ -1,2 +1,2 @@
 # cloud-automation
-Repositório para entrega de Atividades de Cloud Automation
+Repositório MBA Impacta - Cloud Automation - Entrega de Atividades
